@@ -1,0 +1,25 @@
+{
+  "name": "valid-querystring",
+  "version": "1.0.0",
+  "description": "Returns whether a querystring is valid",
+  "keywords": [
+    "valid",
+    "querystring",
+    "qs"
+  ],
+  "author": "Segment.io team@segment.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/segmentio/valid-querystring.git"
+  },
+  "dependencies": {
+    "qs": "~0.6.6"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "main": "index"
+}
