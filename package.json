@@ -13,7 +13,7 @@
     "url": "git://github.com/segmentio/valid-querystring.git"
   },
   "dependencies": {
-    "qs": "~0.6.6"
+    "qs": "~1.2.1"
   },
   "devDependencies": {
     "mocha": "*"
